@@ -1,7 +1,7 @@
 /**
 Problem Statement:
 
-Write a C program that takes two numbers as input and uses an `if-else` statement 
+Write a C program that takes two numbers as input and uses an `if-else-if` statement 
 to determine which number is the largest.
 
 If both numbers are equal, display an appropriate message indicating that they are equal.
@@ -28,10 +28,10 @@ int main() { // Declare the main function
     printf("Enter the second number: "); // Again ask the user and read the second input and store it to second variable.
     scanf("%d", &secondNumber);
 
-    // Check those number whether it's greater.
+    // Compare the two numbers to determine which one is larger
     if (firstNumber > secondNumber)
     {
-        //Execute this block of code if the number is greater than the second number.
+        // Execute this block if the first number is greater than the second number
         printf("\n%d is the largest number.", firstNumber);
     }else if (firstNumber == secondNumber)
     {
@@ -39,7 +39,7 @@ int main() { // Declare the main function
         printf("\nBoth are equal.");
     } else {
 
-        // Otherwise, execute this block of code
+        // Execute this block if the second number is greater than the first number
         printf("\n%d is the largest number.", secondNumber);
     }
 
