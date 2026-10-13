@@ -36,14 +36,14 @@ The `if-else-if` statement allows a program to evaluate multiple conditions in s
 ### A. If-Else Statement
 
 1. [Check Whether a Number Is Negative](If-Else%20Statement/Check%20Negative%20Number/negativeNumber.c)
-2. [Check Whether a Number Is Odd or Even](/If-Else%20Statement/Check%20Odd%20or%20Even%20Number/oddEvenChecker.c)
-3. [Check Whether a Student Passed or Failed](/If-Else%20Statement/Student%20Passed%20or%20Failed/passedOrFailed.c)
+2. [Check Whether a Number Is Odd or Even](./If-Else%20Statement/Check%20Odd%20or%20Even%20Number/oddEvenChecker.c)
+3. [Check Whether a Student Passed or Failed].(/If-Else%20Statement/Student%20Passed%20or%20Failed/passedOrFailed.c)
 
 ### B. If-Else-If Statement
 
-1. [Check Whether a Number Is Positive, Negative, or Zero](/If-Else-If%20Statement/Check%20Positive%20Negative%20or%20Zero/positiveNegativeZero.c)
-2. [Find the Largest of Two Numbers](/If-Else-If%20Statement/Finding%20Largest%20Number/largestNumber.c)
-3. [Find the Largest Among Three Numbers](/If-Else-If%20Statement/Finding%20Largest%20Number%20Among%20Three/largestNumberAmongThree.c)
+1. [Check Whether a Number Is Positive, Negative, or Zero](./If-Else-If%20Statement/Check%20Positive%20Negative%20or%20Zero/positiveNegativeZero.c)
+2. [Find the Largest of Two Numbers](./If-Else-If%20Statement/Finding%20Largest%20Number/largestNumber.c)
+3. [Find the Largest Among Three Numbers](./If-Else-If%20Statement/Finding%20Largest%20Number%20Among%20Three/largestNumberAmongThree.c)
 
 ## Learning Outcomes
 
